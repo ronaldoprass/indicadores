@@ -1,0 +1,8 @@
+[
+	{"ocorrencia": "Roubo", "quantidade": 49},
+	{"ocorrencia": "Furto", "quantidade": 25},
+	{"ocorrencia": "Homicidio", "quantidade": 45},
+	{"ocorrencia": "Furto qualificado", "quantidade": 70},
+	{"ocorrencia": "Estelionato", "quantidade": 35},
+	{"ocorrencia": "outros", "quantidade": 10}
+]

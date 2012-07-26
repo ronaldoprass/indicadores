@@ -1,0 +1,110 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+<meta charset="iso-8859-1">
+<title>Indicadores</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/comparativo.js"></script>
+</head>
+
+<body>
+
+<div id="centro">
+	
+	<div id="conterBarraBG">
+        <div class="divisaoBG">
+            <a target="_blank" href="http://www.estado.rs.gov.br/master.php?capa=1&amp;inc=inc_texto.php&amp;menu=57&amp;niv=1&amp;mp=3">
+                O Estado do RS
+            </a>
+        </div>
+        
+        <div class="divisaoBG">
+            <a target="_blank" href="http://www.estado.rs.gov.br/master.php?capa=1&amp;int=notlist&amp;niv=1&amp;mp=1">
+                Agência de Notícias
+            </a>                
+        </div>
+        
+        <div class="divisaoBG">
+            <a target="_blank" href="http://www.estado.rs.gov.br/master.php?capa=1&amp;inc=inc_texto.php&amp;menu=4&amp;niv=1&amp;mp=2">
+                O Governo
+            </a>
+        </div>
+        
+        <div class="divisaoBG">
+            <a target="_blank" href="http://www.tudofacil.rs.gov.br/">
+                Serviço ao Cidadão
+            </a>
+        </div>
+    </div>
+	
+	<header> 
+        <div id="logoOrgSec">
+            <a href="http://www.acessoainformacao.rs.gov.br" id="jBaseURL">
+				<img title="Página da Acesso à Informação RS" alt="Página da Acesso à Informação RS" src="img/logo.png">
+			</a>
+        </div>    
+                
+        <div id="seloGoverno">
+			<a target="_blank" href="http://www.estado.rs.gov.br/">
+				<img title="Governo do Estado do Rio Grande do Sul" alt="Governo do Estado do Rio Grande do Sul" src="img/logoGov.png">
+			</a>
+		</div>
+            
+        <nav>
+            <ul>
+                <li><a href="./">Home</a></li>
+				<li><a href="ranking.html">Ranking de ocorrências</a></li>
+				<li><a href="comparativo.html" class="atual">Comparativo de municípios</a></li>
+            </ul>
+        </nav>
+    </header>
+	
+	<div id="filtros">
+		<select id="cidade1" disabled>
+			<option value="">Carregando cidades...</option>
+		</select>
+		<select id="cidade2" disabled>
+			<option value="">Carregando cidades...</option>
+		</select>
+		<br />
+		<label>Período</label>
+		<br />
+		de
+		<select id="dataInicial">
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+		</select>
+		a
+		<select id="dataFinal">
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+			<option value="01-2012">01-2012</option>
+		</select>
+		<br />
+		<label>Tipo de ocorrência</label>
+		<select id="ocorrencia">
+			<option value="Roubo">Roubo</option>
+			<option value="Furto">Furto</option>
+			<option value="Estelionato">Estelionato</option>
+			<option value="Furto qualificado">Furto qualificado</option>
+			<option value="Homicídio">Homicídio</option>
+		</select>
+		<input type="button" value="ok" id="confirmaComparativo" />
+	</div>
+		
+	<div id="resultadoComparativo"></div>
+	
+	<footer>
+		
+	</footer>
+	
+</div>
+</body>
+</html>

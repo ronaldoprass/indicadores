@@ -1,0 +1,92 @@
+{"ocorrencias":[
+	{"ocorrencia": "Roubo", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	},
+	{"ocorrencia": "Homicidio", "dados":[
+		  {"cidade":"Porto Alegre", "quantidade":1000},
+		  {"cidade":"Canoas", "quantidade":1170},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030},
+		  {"cidade":"Sapucaia", "quantidade":660},
+		  {"cidade":"Guaiba", "quantidade":1030}
+	  ]  
+	}
+]}
